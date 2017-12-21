@@ -1,0 +1,16 @@
+F:\Personal\PolEX\PolEX.Win\obj\Debug\PolEX.Win.csprojResolveAssemblyReference.cache
+F:\Personal\PolEX\PolEX.Win\obj\Debug\PolEX.Win.Form1.resources
+F:\Personal\PolEX\PolEX.Win\obj\Debug\PolEX.Win.Properties.Resources.resources
+F:\Personal\PolEX\PolEX.Win\obj\Debug\PolEX.Win.csproj.GenerateResource.Cache
+F:\Personal\PolEX\PolEX.Win\bin\Debug\PolEX.Win.exe.config
+F:\Personal\PolEX\PolEX.Win\bin\Debug\PolEX.Win.exe
+F:\Personal\PolEX\PolEX.Win\bin\Debug\PolEX.Win.pdb
+F:\Personal\PolEX\PolEX.Win\bin\Debug\PolEX.dll
+F:\Personal\PolEX\PolEX.Win\bin\Debug\System.Data.SQLite.dll
+F:\Personal\PolEX\PolEX.Win\bin\Debug\PolEX.pdb
+F:\Personal\PolEX\PolEX.Win\bin\Debug\System.Data.SQLite.xml
+F:\Personal\PolEX\PolEX.Win\obj\Debug\PolEX.Win.exe
+F:\Personal\PolEX\PolEX.Win\obj\Debug\PolEX.Win.pdb
+F:\Personal\PolEX.sketchProject\PolEX.Win\bin\Debug\PolEX.Win.exe.config
+F:\Personal\PolEX.sketchProject\PolEX.Win\obj\Debug\PolEX.Win.exe
+F:\Personal\PolEX.sketchProject\PolEX.Win\obj\Debug\PolEX.Win.pdb
